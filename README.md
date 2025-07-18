@@ -4,9 +4,9 @@
 
 👀 I’m interested in integrating hardware and software to build smart automation solutions
 
-🌱 I’m currently learning PCB design, Arduino programming, C, Python
+🌱 I’m currently learning Arduino programming, C, Python
 
-💞️ I’m looking to collaborate on embedded systems projects and full-stack web applications
+💞️ I’m looking to collaborate on embedded systems projects
 
 📫 How to reach me: gayuganga20041977@gmail.com
 
